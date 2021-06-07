@@ -1,0 +1,16 @@
+{
+  "name": "gittag",
+  "version": "1.0.0",
+  "description": "Repository with a script that tags current commit with timestamp",
+  "main": "gittag.js",
+  "bin": "./bin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "tag"
+  ],
+  "author": "Helmut Tammen",
+  "license": "MIT"
+}
